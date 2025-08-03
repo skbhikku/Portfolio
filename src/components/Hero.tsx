@@ -79,7 +79,7 @@ const Hero = () => {
               Get In Touch
             </button>
             <a
-              href="/src/components/Resume.pdf"
+              href="/Resume.pdf"
               download
               className="border border-cyan-500 text-cyan-400 hover:bg-cyan-500 hover:text-black font-semibold px-8 py-3 rounded-lg transition-all duration-300 transform hover:scale-105 flex items-center justify-center gap-2"
             >
