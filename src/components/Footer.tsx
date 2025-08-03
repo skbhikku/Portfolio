@@ -12,12 +12,12 @@ const Footer = () => {
         <div className="text-center">
           <div className="mb-8">
             <h3 className="text-2xl font-bold text-white mb-2">SHAIK BHIKKU SAHEB</h3>
-            <p className="text-gray-400">Full Stack Developer | Final Year CSE Student</p>
+            <p className="text-gray-400">Full Stack Developer | Open to work</p>
           </div>
 
           <div className="mb-8">
             <p className="text-gray-400 flex items-center justify-center">
-              Made with <Heart className="text-red-500 mx-2" size={16} fill="currentColor" /> using React & Tailwind CSS
+              Made with <Heart className="text-red-500 mx-1" size={16} fill="currentColor" /> using React & Tailwind CSS
             </p>
           </div>
 
