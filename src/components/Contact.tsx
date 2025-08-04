@@ -54,8 +54,8 @@ const Contact = () => {
     {
       icon: Linkedin,
       name: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/sk-bhikku-saheb-52423a226/',
-      username: 'SK Bhikku Saheb'
+      href: 'https://www.linkedin.com/in/shaik-bhikku-saheb-52423a226',
+      username: 'Shaik Bhikku Saheb'
     }
   ];
 
