@@ -10,7 +10,7 @@ const Hero = () => {
     },
     { 
       icon: Linkedin, 
-      href: 'https://www.linkedin.com/in/sk-bhikku-saheb-52423a226', 
+      href: 'https://www.linkedin.com/in/shaik-bhikku-saheb-52423a226', 
       label: 'LinkedIn' 
     },
     { 
